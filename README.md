@@ -22,8 +22,13 @@ Open your browser and go to:
 
 🧹 Management Commands
 Stop all services:
+
 docker compose down
+
 View logs:
+
 docker compose logs -f
+
 Rebuild containers:
+
 docker compose up -d --build
