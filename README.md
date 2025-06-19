@@ -21,6 +21,7 @@ Open your browser and go to:
 
 
 🧹 Management Commands
+
 Stop all services:
 
 docker compose down
